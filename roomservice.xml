@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+<project name="android_device_qcom_common" path="device/qcom/common" remote="cm" />
+<project name="android_kernel_lge_g3" path="kernel/lge/g3" remote="cm" revision="cm-12.0" />
+<project name="android_device_lge_qcom-common" path="device/lge/qcom-common" remote="TeamBliss-Devices" revision="lp5.0" />
+<project name="android_device_lge_d855" path="device/lge/d855" remote="TeamBliss-Devices" revision="lp5.0" />
+<project name="android_device_lge_g3-common" path="device/lge/g3-common" remote="TeamBliss-Devices" revision="lp5.0" />
+</manifest>
+
+===================================================
+
+
+
+
+-----------------------------------
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+ <project name="tobitege/android_device_oneplus_bacon" path="device/oneplus/bacon" remote="github" revision="lp5.0" />
+ <project name="android_device_oppo_msm8974-common" path="device/oppo/msm8974-common" remote="TeamBliss-Devices" revision="lp5.0" />
+ <project name="CyanogenMod/android_device_oppo_common" path="device/oppo/common" remote="github" />
+ <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" />
+ <project name="CyanogenMod/android_kernel_oneplus_msm8974" path="kernel/oneplus/msm8974" remote="github" />
+ <project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/default" remote="github" revision="cm-12.0-caf-8974" />
+ <project name="TeamBliss-Devices/android_device_lge_d855" path="device/lge/d855" remote="github" revision="lp5.0" />
+ <project name="TeamBliss-Devices/android_device_lge_g3-common" path="device/lge/g3-common" remote="github" revision="lp5.0" />
+
+<!-- LG -->
+
+ <project name="android_kernel_lge_g3" path="kernel/lge/g3" remote="cm" revision="cm-12.0" />
+
+
+</manifest>
+
+https://github.com/ResurrectionRemix/platform_manifest.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+<manifest>
+<project name="TeamBliss-Devices/android_device_oneplus_bacon" path="device/oneplus/bacon" remote="github" revision="lp5.0"/>
+<project name="android_device_oppo_msm8974-common" path="device/oppo/msm8974-common" remote="TeamBliss-Devices" revision="lp5.0"/>
+<project name="CyanogenMod/android_device_oppo_common" path="device/oppo/common" remote="github"/>
+<project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github"/>
+<project name="CyanogenMod/android_kernel_oneplus_msm8974" path="kernel/oneplus/msm8974" remote="github"/>
+<project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/default" remote="github" revision="cm-12.0-caf-8974"/>
+<project name="TheMuppets/proprietary_vendor_oneplus.git" path="vendor/oneplus" remote="github" revision="cm-12.0"/>
+<project name="TheMuppets/proprietary_vendor_oppo.git" path="vendor/oppo" remote="github" revision="cm-12.0"/>
+
+
+
+
+<!-- LG -->
+
+  <project name="TheMuppets/proprietary_vendor_lge.git" path="vendor/lge" remote="github" revision="cm-12.0" />
+  <project name="TheMuppets/proprietary_vendor_audience" path="vendor/audience" remote="github" revision="cm-12.0" />
+  <project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom" remote="github" revision="cm-12.0" />
+  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-12.0" />
+  <project name="TheMuppets/proprietary_vendor_widevine" path="vendor/widevine" remote="github" revision="cm-12.0" />
+
+
+  <project name="android_kernel_lge_g3" path="kernel/lge/g3" remote="cm" revision="cm-12.0" />
+  <project name="G2_render_kernel" path="kernel/lge/msm8974" remote="TeamBliss-Devices" revision="lp5.0" />
+  <project name="android_device_lge_g2-common" path="device/lge/g2-common" remote="TeamBliss-Devices" revision="lp5.0" />
+  <project name="android_device_lge_d801" path="device/lge/d801" remote="TeamBliss-Devices" revision="lp5.0" />
+  <project name="android_device_lge_d802" path="device/lge/d802" remote="TeamBliss-Devices" revision="lp5.0" />
+  <project name="android_device_lge_d855" path="device/lge/d855" remote="TeamBliss-Devices" revision="lp5.0" />
+  <project name="android_device_lge_g3-common" path="device/lge/g3-common" remote="TeamBliss-Devices" revision="lp5.0" />
+
+</manifest>
